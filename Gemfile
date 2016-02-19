@@ -44,3 +44,5 @@ group :development, :test do
   gem 'spring'
 end
 
+ruby '2.2.4'
+#ruby-gemset=tutorails_2016_demo
